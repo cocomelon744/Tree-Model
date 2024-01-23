@@ -1,0 +1,33 @@
+SYMBOL,SYMBOL_NAME,SYMBOL_TYPE,SYMBOL_NAME_FULL,UNIT
+^DJI,Dow Jones,Market Index,Dow Jones (^DJI),index
+^IXIC,Nasdaq,Market Index,Nasdaq (^IXIC),index
+^GSPC,S&P500,Market Index,S&P500 (^GSPC),index
+^NYA,NYSE Composite,Market Index,NYSE Composite (^NYA),index
+^RUT,Russell 2000,Market Index,Russell 2000 (^RUT),index
+^VIX,CBOE Volitility,Market Index,CBOE Volitility (^VIX),index %
+^GDAXI,DAX Index,Market Index,DAX Index (^GDAXI),index
+^FTSE,FTSE 100,Market Index,FTSE 100 (^FTSE),index
+^HSI,Hang Seng Index,Market Index,Hang Seng Index (^HSI),index
+CC=F,Cocoa,Commodity: AGRICULTURE,Cocoa (CC=F),GBP per Ton
+KC=F,Coffee,Commodity: AGRICULTURE,Coffee (KC=F),USc per lb.
+ZC=F,Corn,Commodity: AGRICULTURE,Corn (ZC=F),USc per Bushel
+CT=F,Cotton,Commodity: AGRICULTURE,Cotton (CT=F),USc per lb.
+LE=F,Live Cattle,Commodity: AGRICULTURE,Live Cattle (LE=F),USD per lb.
+OJ=F,Orange Juice,Commodity: AGRICULTURE,Orange Juice (OJ=F),USc per lb.
+ZS=F,Soybeans,Commodity: AGRICULTURE,Soybeans (ZS=F),USc per Bushel
+SB=F,Sugar,Commodity: AGRICULTURE,Sugar (SB=F),USc per lb.
+ZW=F,Wheat,Commodity: AGRICULTURE,Wheat (ZW=F),USc per Ton
+EH=F,Ethanol,Commodity: ENERGY,Ethanol (EH=F),per Gallon
+HO=F,Heating Oil,Commodity: ENERGY,Heating Oil (HO=F),USD per 100 Liter
+NG=F,Natural Gas,Commodity: ENERGY,Natural Gas (NG=F),USD per MMBtu
+BZ=F,Crude Oil-Brent,Commodity: ENERGY,Crude Oil-Brent (BZ=F),USD per Barrel
+CL=F,Crude Oil-WTI,Commodity: ENERGY,Crude Oil-WTI (CL=F),USD per Barrel
+HG=F,Copper,Commodity: INDUSTRIAL METALS,Copper (HG=F),USD per Ton
+GC=F,Gold,Commodity: PRECIOUS METALS,Gold (GC=F),USD per Troy Ounce
+PA=F,Palladium,Commodity: PRECIOUS METALS,Palladium (PA=F),USD per Troy Ounce
+PL=F,Platinum,Commodity: PRECIOUS METALS,Platinum (PL=F),USD per Troy Ounce
+SI=F,Silver,Commodity: PRECIOUS METALS,Silver (SI=F),USD per Troy Ounce
+^FVX,Treasury Yield 5 Years,U.S. Treasury Bonds,Treasury Yield 5 Years (^FVX),YIELD %
+^IRX,Treasury Bill 13 Week,U.S. Treasury Bonds,Treasury Bill 13 Week (^IRX),YIELD %
+^TNX,Treasury Yield 10 Years,U.S. Treasury Bonds,Treasury Yield 10 Years (^TNX),YIELD %
+^TYX,Treasury Yield 30 Years,U.S. Treasury Bonds,Treasury Yield 30 Years (^TYX),YIELD %
